@@ -8,7 +8,7 @@ You can install python [here](https://www.python.org).
 1. Clone the repo using git or simply downloading it. If you download it, unzip it and follow step 2.
 To clone using git use 
 ```
-$ git clone https://github.com/Starlinkboy/Nitro-gen-and-checker-v2
+git clone https://github.com/Starlinkboy/Nitro-gen-and-checker-v2
 
 ```
 2. Locate the file and open it using Command Prompt. Locate the file --> Copy the path --> Open Command Prompt and type the following:
@@ -31,7 +31,8 @@ py main.py
 2. You should be good to go and have the following on your screen:
 
   
- 
+ ![gen](https://user-images.githubusercontent.com/89333014/178542074-40d266bb-c525-4d0e-b8c7-66e5a5f34884.png)
+
   
 
 
