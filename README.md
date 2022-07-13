@@ -1,5 +1,6 @@
 # Nitro-gen-and-checker-v2
 Discord Nitro generator and checker version 2. Checks better codes, higher success rate and more secure.
+**Note: Currently the generator speed is slow. I am working on increasing the speed.**
 
 ## Installing Python
 You can install python [here](https://www.python.org).
